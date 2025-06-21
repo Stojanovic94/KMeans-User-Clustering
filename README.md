@@ -5,6 +5,8 @@ This example shows how to apply the **K-Means algorithm** to segment hotel users
 - Their average ratings
 - Number of reviews they left
 
+![](image.png)
+
 ## 📌 Requirements
 
 ```bash
